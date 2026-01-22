@@ -1,73 +1,57 @@
-📌 Java Programming – Complete Guide with DSA
+# 📌 Java Programming – Complete Guide with DSA
 
-🚀 This repository is a complete Java Programming roadmap, designed to cover everything from basic to advanced level, along with Data Structures & Algorithms (DSA).
+🚀 This repository is a complete Java Programming roadmap, designed to cover everything from basic to advanced level, along with Data Structures & Algorithms (DSA) using Java.
 
-🔹 What this repository includes:
+---
 
-✅ Java Basics (Syntax, Variables, Data Types)
+## 🔹 What this repository includes
 
-✅ Control Statements (if-else, loops, switch)
+### ✅ Java Fundamentals
+- Java Basics (Syntax, Variables, Data Types)
+- Control Statements (if-else, loops, switch)
 
-✅ Object-Oriented Programming (OOPs)
+### ✅ Object-Oriented Programming (OOPs)
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
 
-Classes & Objects
+### ✅ Core Java Concepts
+- Exception Handling
+- Multithreading
+- File Handling
+- Collections Framework
+- Core concepts with clear and simple examples
 
-Inheritance
+### ✅ Data Structures & Algorithms (DSA using Java)
+- Arrays
+- Strings
+- Linked List
+- Stack & Queue
+- Recursion
+- Sorting Algorithms
+- Searching Algorithms
+- Trees
+- Graphs
+- Dynamic Programming
 
-Polymorphism
+### ✅ Practice & Problem Solving
+- Logical coding problems
+- DSA practice questions
+- Step-by-step learning approach
 
-Abstraction
+✔ Beginner → Intermediate → Advanced level structure
 
-Encapsulation
+---
 
-✅ Exception Handling
-
-✅ Multithreading
-
-✅ File Handling
-
-✅ Collections Framework
-
-✅ Java 8+ Features (Lambda, Streams, Functional Interfaces)
-
-✅ Core Concepts with clear examples
-
-✅ DSA using Java
-
-Arrays
-
-Strings
-
-Linked List
-
-Stack & Queue
-
-Recursion
-
-Sorting Algorithms
-
-Searching Algorithms
-
-Trees
-
-Graphs
-
-Dynamic Programming
-
-✅ Problem Solving & Practice Questions
-
-✅ Beginner → Intermediate → Advanced level structure
-
-🎯 Goal of this Repository:
-
+## 🎯 Goal of this Repository
 To build strong Java fundamentals, master DSA, and help learners become job-ready & interview-ready through well-structured code and explanations.
 
-📚 Perfect for:
+---
 
-Beginners learning Java
-
-Students preparing for placements
-
-DSA & coding interview preparation
-
-Anyone who wants a strong Java foundation
+## 📚 Perfect for
+- Beginners learning Java
+- Students preparing for placements
+- DSA & coding interview preparation
+- Anyone who wants a strong Java foundation
